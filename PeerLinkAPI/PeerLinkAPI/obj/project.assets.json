@@ -193,23 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Emma.Jeyarajah\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Emilian.Termure\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emma.Jeyarajah\\source\\repos\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Emilian.Termure\\Source\\Repos\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI.csproj",
       "projectName": "PeerLinkAPI",
-      "projectPath": "C:\\Users\\Emma.Jeyarajah\\source\\repos\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI.csproj",
-      "packagesPath": "C:\\Users\\Emma.Jeyarajah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emma.Jeyarajah\\source\\repos\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI\\obj\\",
+      "projectPath": "C:\\Users\\Emilian.Termure\\Source\\Repos\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI.csproj",
+      "packagesPath": "C:\\Users\\Emilian.Termure\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emilian.Termure\\Source\\Repos\\PeerLinkAPI\\PeerLinkAPI\\PeerLinkAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Emma.Jeyarajah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Emilian.Termure\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -259,7 +255,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
       }
     }
   }
